@@ -1,0 +1,628 @@
+# Webalizer V2.23-08 Incremental Data - 02/12/2020 17:47:02
+2020 2 12 17 47 2
+1863 1766 6 214 25 6 379040952 1198 30 0
+2 166 269 6 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+138 136 15315373 1 112 1
+74 73 8552092 1 55 1
+0 0 0 0 0 0
+259 244 17137564 2 215 5
+713 646 50475644 3 384 10
+157 157 12858194 1 133 7
+522 510 274702085 2 299 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+36 36 5926951 36
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+113 112 99288749 19
+186 181 25603146 155
+269 256 18368499 143
+395 345 149928014 130
+141 137 3759210 81
+44 43 1006642 41
+142 142 6137125 124
+35 35 598646 34
+146 146 9173332 122
+177 170 32748462 168
+0 0 0 0
+179 163 26502176 145
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+1766
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+53
+0
+0
+0
+0
+0
+0
+31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/phpadmin/editar-paginas.php
+0 1 0 6890 0 0
+/phpmyadmin/js/doclinks.js
+0 5 0 82572 0 0
+/phpmyadmin/js/vendor/jquery/jquery-migrate.js
+0 5 0 71252 0 0
+/administracion
+0 2 0 1066 1 0
+/phpmyadmin/themes/pmahomme/img/b_engine.png
+1 4 0 1592 0 0
+/phpmyadmin/themes/pmahomme/img/b_drop.png
+1 4 0 2548 0 0
+/esquema.html
+0 1 0 4548 0 0
+/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css
+0 4 0 1869 0 0
+/phpmyadmin/themes/pmahomme/css/printview.css
+0 4 0 8238 0 0
+/phpmyadmin/version_check.php
+0 13 0 832 0 0
+/phpmyadmin/js/console.js
+0 5 0 229112 0 0
+/phpmyadmin/themes/pmahomme/img/s_status.png
+1 4 0 2400 0 0
+/logouca.png
+1 6 0 165858 0 0
+/phpmyadmin/js/tbl_change.js
+0 4 0 116048 0 0
+/phpmyadmin/js/vendor/jquery/jquery.event.drag-2.2.js
+0 5 0 51304 0 0
+/js/taxonomic-tree.js
+0 5 0 41960 0 0
+/phpmyadmin/server_import.php
+0 1 35460080 6344 0 0
+/js/awesomplete.js
+0 7 0 87136 0 0
+/phpmyadmin/themes/pmahomme/img/b_view_add.png
+1 3 0 2034 0 0
+/phpmyadmin/server_privileges.php
+0 6 35459552 9838 0 1
+/phpmyadmin/
+0 33 0 158798 4 0
+/phpmyadmin/themes/pmahomme/img/s_db.png
+1 4 0 1312 0 0
+/termino.html
+0 5 0 22660 0 0
+/phpmyadmin/themes/pmahomme/img/b_insrow.png
+1 4 0 628 0 0
+/phpmyadmin/js/error_report.js
+0 5 0 40448 0 0
+/buscar-glosario.html
+0 2 0 11600 0 0
+/phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.5.js
+0 5 0 4676 0 0
+/js/esquemas.js
+0 1 0 10411 0 0
+/js/editor.js
+0 2 0 132144 0 0
+/phpmyadmin/js/server_privileges.js
+0 1 35459680 18553 0 0
+/js/cargarinicio.js
+0 8 0 4960 0 0
+/js/claves.js
+0 6 0 14820 0 0
+/phpmyadmin/themes/pmahomme/img/b_plugin.png
+1 4 0 2048 0 0
+/phpmyadmin/themes/pmahomme/img/s_top.png
+1 4 0 880 0 0
+/phpmyadmin/themes/pmahomme/img/s_loggoff.png
+1 4 0 2504 0 0
+/phpmyadmin/themes/pmahomme/img/b_primary.png
+1 2 0 1072 0 0
+/phpmyadmin/themes/pmahomme/img/b_unique.png
+1 2 0 1166 0 0
+/phpmyadmin/js/vendor/sprintf.js
+0 5 0 29548 0 0
+/phpmyadmin/js/import.js
+0 1 35460208 5640 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 4 0 109698 0 0
+/phpmyadmin/js/tbl_structure.js
+0 2 0 39732 0 0
+/js/listado-especies.js
+0 8 0 775336 0 0
+/phpmyadmin/js/vendor/codemirror/addon/lint/lint.js
+0 5 0 34436 0 0
+/phpmyadmin/themes/pmahomme/img/console.png
+1 4 0 1168 0 0
+/phpmyadmin/themes/pmahomme/img/s_rights.png
+1 4 0 1844 0 0
+/phpadmin/agregar-termino.php
+0 2 0 10710 0 0
+/phpmyadmin/themes/pmahomme/img/b_props.png
+1 4 0 2292 0 0
+/phpmyadmin/js/vendor/jquery/jquery.min.js
+0 5 0 347708 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+1 4 0 10852 0 0
+/phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js
+0 5 0 9996 0 0
+/phpmyadmin/themes/pmahomme/img/b_help.png
+1 4 0 2820 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 1 0 122 0 0
+/listado-especies.html
+0 8 0 42768 0 0
+/phpmyadmin/ajax.php
+0 31 0 43478 0 0
+/js/bootstrap.min.js
+0 6 0 279918 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+1 4 0 404 0 0
+/phpmyadmin/themes/pmahomme/img/s_asc.png
+1 3 35457840 438 0 0
+/php/contenidos-crustacean-keys.php
+0 14 4049912749481864754 72170 1 0
+/js/taxon-clave.js
+0 4 7017221966884056373 97764 0 0
+/phpmyadmin/js/common.js
+0 5 7017221953898491185 76672 0 0
+/phpmyadmin/js/vendor/jquery/jquery.mousewheel.js
+0 5 7218763564795901997 33068 0 0
+/phpmyadmin/js/vendor/codemirror/lib/codemirror.css
+0 4 3328784858459681025 25626 0 0
+/phpadmin/checklogin.php
+0 3 3832679154187332864 297 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png
+1 1 8315103282824818233 3765 0 0
+/taxon-clave.html
+0 7 12 32473 0 0
+/phpmyadmin/js/rte.js
+0 5 0 190712 0 0
+/phpmyadmin/themes/pmahomme/img/b_no_favorite.png
+1 3 35458128 1131 0 0
+/jsadmin/editar-taxon.js
+0 2 0 19144 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+1 3 0 333 0 0
+/phpmyadmin/themes/pmahomme/img/b_browse.png
+1 4 0 1944 0 0
+/phpmyadmin/db_export.php
+0 3 35458688 27992 1 1
+/phpmyadmin/navigation.php
+0 17 0 35156 0 0
+/css/galeria.css
+0 6 0 3096 0 0
+/phpmyadmin/themes/pmahomme/img/b_export.png
+1 4 0 2056 0 0
+/jsadmin/agregar-esquema.js
+0 1 0 2281 0 0
+/phpmyadmin/js/multi_column_sort.js
+0 3 0 8955 0 0
+/css/bootstrap.min.css.map
+0 1 35460336 68044 0 0
+/logoinmar.png
+1 6 0 91920 0 0
+/php/esquemas-crustacean-keys.php
+0 11 0 240045 0 0
+/phpmyadmin/js/config.js
+0 5 0 107716 0 0
+/phpmyadmin/themes/pmahomme/img/b_minus.png
+1 4 0 492 0 0
+/phpmyadmin/themes/pmahomme/img/b_plus.png
+1 4 0 572 0 0
+/phpmyadmin/js/indexes.js
+0 5 0 109636 0 0
+/phpmyadmin/js/shortcuts_handler.js
+0 5 0 13056 0 0
+/phpadmin/c-paginas.php
+0 1 0 33 0 0
+/phpmyadmin/themes/pmahomme/img/s_cog.png
+1 4 0 1768 0 0
+/phpmyadmin/themes/pmahomme/img/b_relations.png
+1 4 0 560 0 0
+/logo.jpg
+1 6 0 586620 0 0
+/phpmyadmin/themes/pmahomme/img/s_host.png
+1 4 0 2364 0 0
+/phpmyadmin/js/vendor/codemirror/addon/lint/lint.css
+0 4 0 8997 0 0
+/phpmyadmin/themes/pmahomme/img/b_docs.png
+1 4 0 2820 0 0
+/phpmyadmin/js/vendor/jquery/jquery.validate.js
+0 5 0 194784 0 0
+/phpmyadmin/js/gis_data_editor.js
+0 3 0 44163 0 0
+/taxon.html
+0 17 0 68970 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblimport.png
+1 3 0 1668 0 0
+/phpmyadmin/js/vendor/jquery/jquery-ui.min.js
+0 5 0 1014724 0 0
+/phpmyadmin/themes/pmahomme/img/b_usrlist.png
+1 1 35459936 677 0 0
+/js/termino.js
+0 3 0 31770 0 0
+/phpmyadmin/themes/pmahomme/img/s_vars.png
+1 4 0 2092 0 0
+/phpmyadmin/js/ajax.js
+0 5 0 124984 0 0
+/buscar-esquema.html
+0 4 0 14284 0 0
+/js/buscar-glosario.js
+0 2 0 60288 0 0
+/phpmyadmin/js/server_databases.js
+0 1 35459424 5695 0 0
+/phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js
+0 3 0 10437 0 0
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+1 3 0 306 0 0
+/php/crustacean-keys.php
+0 169 0 100333142 1 6
+/php/especies-crustacean-keys.php
+0 584 0 1048148 15 13
+/phpmyadmin/themes/pmahomme/img/b_edit.png
+1 3 0 1131 0 0
+/css/style.css
+0 5 0 250 0 0
+/jsadmin/agregar-clave.js
+0 2 0 5542 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblanalyse.png
+1 4 0 608 0 0
+/phpmyadmin/js/sql.js
+0 3 0 113610 0 0
+/js/taxon.js
+0 6 0 146646 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png
+1 1 0 126 0 0
+/js/jquery-3.2.1.min.js
+0 5 0 433295 0 0
+/phpmyadmin/themes/pmahomme/img/b_print.png
+1 4 0 2556 0 0
+/phpmyadmin/export.php
+0 4 35458944 194957449 0 1
+/phpmyadmin/themes/pmahomme/img/b_ftext.png
+1 2 0 1100 0 0
+/phpmyadmin/js/functions.js
+0 5 0 693396 0 0
+/phpmyadmin/themes/pmahomme/img/b_newdb.png
+1 1 35459280 585 0 0
+/jsadmin/agregar-taxon.js
+0 2 0 4715 0 0
+/css/bootstrap.min.css
+0 5 0 754980 0 0
+/phpmyadmin/js/keyhandler.js
+0 5 0 13332 0 0
+/phpmyadmin/themes/pmahomme/img/b_sqlhelp.png
+1 4 0 2048 0 0
+/phpmyadmin/themes/pmahomme/img/b_home.png
+1 4 0 2936 0 0
+/php/glosario-crustacean-keys.php
+0 94 0 1373956 0 1
+/phpmyadmin/js/vendor/js.cookie.js
+0 5 0 15544 0 0
+/phpmyadmin/themes/pmahomme/img/b_chart.png
+1 3 0 1347 0 0
+/phpmyadmin/themes/pmahomme/img/b_select.png
+1 3 35458272 1779 0 0
+/phpmyadmin/themes/pmahomme/img/b_import.png
+1 4 0 2224 0 0
+/phpmyadmin/themes/pmahomme/img/b_empty.png
+1 3 35458416 1563 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_65_ffffff_1x400.png
+1 1 0 73 0 0
+/phpadmin/agregar-taxon.php
+0 8 0 50008 0 0
+/phpadmin/editar-taxon.php
+0 2 0 16500 0 0
+/jsadmin/editar-paginas.js
+0 1 0 3251 0 0
+/buscar.html
+0 5 0 19845 1 0
+/phpmyadmin/themes/pmahomme/img/b_triggers.png
+1 4 0 1784 0 0
+/phpmyadmin/themes/pmahomme/img/s_notice.png
+1 3 0 1701 0 0
+/phpmyadmin/themes/pmahomme/img/b_table_add.png
+1 4 0 2284 0 0
+/css/taxon.css
+0 6 0 19740 0 0
+/phpmyadmin/server_databases.php
+0 3 35459152 7337 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_888888_256x240.png
+1 1 0 3765 0 0
+/phpmyadmin/js/messages.php
+0 9 0 61754 0 0
+/phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js
+0 5 0 313900 0 0
+/phpmyadmin/js/vendor/codemirror/lib/codemirror.js
+0 5 0 1492936 0 0
+/phpmyadmin/js/export.js
+0 2 35458816 67736 0 0
+/phpmyadmin/themes/pmahomme/img/window-new.png
+1 4 0 1872 0 0
+/js/botonarriba.js
+0 5 0 1805 0 0
+/js/fileinput.min.js
+0 2 0 18456 0 0
+/phpmyadmin/favicon.ico
+0 3 0 67458 0 0
+/phpmyadmin/js/makegrid.js
+0 3 0 292995 0 0
+/phpmyadmin/db_structure.php
+0 10 35457424 70382 0 0
+/phpmyadmin/themes/pmahomme/img/s_passwd.png
+1 4 0 1324 0 0
+/phpmyadmin/sql.php
+0 28 0 248021 0 0
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+1 4 0 7240 0 0
+/phpadmin/c-claves.php
+0 3 0 30300 0 0
+/phpmyadmin/js/db_structure.js
+0 3 35458560 47409 0 0
+/phpmyadmin/themes/pmahomme/img/b_sql.png
+1 4 0 2720 0 0
+/css/fileinput.css
+0 2 0 2120 0 0
+/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js
+0 5 0 63636 0 0
+/phpmyadmin/themes/pmahomme/img/s_success.png
+1 3 0 1395 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 16 0 289716 0 0
+/phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js
+0 5 0 36592 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblexport.png
+1 3 0 1542 0 0
+/phpmyadmin/js/vendor/tracekit.js
+0 5 0 181556 0 0
+/phpmyadmin/themes/pmahomme/img/b_index.png
+1 2 0 1286 0 0
+/
+0 8 0 22520 5 0
+/phpmyadmin/themes/pmahomme/img/s_asci.png
+1 4 0 592 0 0
+/phpmyadmin/themes/pmahomme/img/b_move.png
+1 2 0 762 0 0
+/phpmyadmin/themes/pmahomme/img/s_theme.png
+1 4 0 3088 0 0
+/phpmyadmin/js/codemirror/addon/lint/sql-lint.js
+0 5 0 4192 0 0
+/phpadmin/c-taxones.php
+0 20 0 290490 0 0
+/phpmyadmin/themes/pmahomme/img/s_unlink.png
+1 2 0 1178 0 0
+/phpmyadmin/themes/pmahomme/img/s_desc.png
+1 3 35457984 438 0 0
+/phpmyadmin/js/page_settings.js
+0 5 0 6996 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 5 0 17224 0 0
+/phpmyadmin/js/menu-resizer.js
+0 5 0 33272 0 0
+/taxonomic-tree.html
+0 5 0 16700 0 1
+/phpmyadmin/themes/pmahomme/img/b_routines.png
+1 3 35457552 918 0 0
+/phpmyadmin/tbl_structure.php
+0 2 0 13605 0 0
+/php/claves-crustacean-keys.php
+0 11 0 27427224 1 0
+/js/buscar.js
+0 5 0 19690 0 0
+/css/panel-control.css
+0 5 0 430 0 0
+/phpmyadmin/themes/pmahomme/img/s_error.png
+1 3 0 1842 0 0
+/claves.html
+0 6 0 20694 0 0
+/jsadmin/agregar-termino.js
+0 1 0 1809 0 0
+/phpmyadmin/themes/pmahomme/img/s_reload.png
+1 4 0 2108 0 0
+/phpmyadmin/themes/pmahomme/img/normalize.png
+1 2 0 1010 0 0
+/phpmyadmin/themes/dot.gif
+1 5 0 172 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 1 0 121 0 0
+/phpmyadmin/js/vendor/jquery/jquery.ba-hashchange-1.3.js
+0 5 0 66088 0 0
+/css/editor.css
+0 2 0 22620 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+1 4 0 584 0 0
+/phpadmin/agregar-clave.php
+0 3 0 17298 0 0
+/phpmyadmin/themes/pmahomme/img/b_events.png
+1 3 35457696 2109 0 0
+/administracion.html
+0 1 0 533 0 0
+/phpmyadmin/themes/pmahomme/img/b_search.png
+1 4 0 2152 0 0
+/phpmyadmin/server_export.php
+0 1 35459024 12008 0 0
+/css/botonarriba.css
+0 5 0 1300 0 0
+/phpmyadmin/themes/pmahomme/img/s_link.png
+1 4 0 1120 0 0
+/phpmyadmin/js/navigation.js
+0 5 0 239264 0 0
+/phpmyadmin/themes/pmahomme/img/b_more.png
+1 4 0 444 0 0
+/phpmyadmin/js/cross_framing_protection.js
+0 5 0 1884 0 0
+/css/awesomplete.css
+0 5 0 9625 0 0
+/css/buscar.css
+0 6 0 246 0 0
+/phpmyadmin/js/vendor/zxcvbn.js
+0 1 35459808 821711 0 0
+/phpmyadmin/themes/pmahomme/img/s_tbl.png
+1 3 0 1935 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_454545_256x240.png
+1 1 0 3765 0 0
+/phpmyadmin/js/vendor/codemirror/mode/sql/sql.js
+0 5 0 181292 0 0
+/phpmyadmin/js/whitelist.php
+0 9 0 399 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+1 3 0 528 0 0
+/js/buscar-esquema.js
+0 4 0 9012 0 0
+/phpadmin/agregar-esquema.php
+0 1 0 5722 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblops.png
+1 4 0 2148 0 0
+# End Of Table - urls
+# -sites- (monthly)
+wlanipr1028.uca.es
+0 725 709 274318223 5 1581529622
+/php/crustacean-keys.php
+77.241.117.42
+0 82 67 10401793 2 1581278302
+/php/crustacean-keys.php
+10.182.151.137
+0 171 169 24652475 7 1581364510
+/php/crustacean-keys.php
+pccacy21.uca.es
+0 138 136 15315373 1 1580981994
+/php/crustacean-keys.php
+195.pool85-57-0.dynamic.orange.es
+0 370 370 25520916 12 1581468520
+/php/crustacean-keys.php
+wlandpr1237.uca.es
+0 377 315 28832172 3 1581333104
+/phpmyadmin/js/messages.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+wlanipr1028.uca.es
+0 486 474 268775134 4 1581529622
+/php/crustacean-keys.php
+195.pool85-57-0.dynamic.orange.es
+0 36 36 5926951 2 1581468520
+/php/crustacean-keys.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://crustaceankeys.uca.es/phpadmin/agregar-clave.php
+0 12
+http://crustaceankeys.uca.es/buscar.html
+0 57
+http://crustaceankeys.uca.es/administracion
+0 7
+http://crustaceankeys.uca.es/phpadmin/agregar-termino.php
+0 4
+http://crustaceankeys.uca.es/phpadmin/editar-taxon.php
+0 8
+http://crustaceankeys.uca.es/phpadmin/index.php
+0 1
+http://crustaceankeys.uca.es/phpmyadmin/phpmyadmin.css.php
+0 173
+http://crustaceankeys.uca.es/phpadmin/agregar-esquema.php
+0 3
+http://crustaceankeys.uca.es/phpadmin/editar-paginas.php
+0 3
+- (Direct Request)
+0 513
+http://crustaceankeys.uca.es/buscar-esquema.html
+0 15
+http://crustaceankeys.uca.es/phpadmin/agregar-taxon.php
+0 30
+http://crustaceankeys.uca.es/claves.html
+0 40
+http://crustaceankeys.uca.es/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 7
+http://crustaceankeys.uca.es/listado-especies.html
+0 590
+http://crustaceankeys.uca.es/
+0 68
+http://crustaceankeys.uca.es/taxon-clave.html
+0 51
+http://crustaceankeys.uca.es/taxonomic-tree.html
+0 14
+http://crustaceankeys.uca.es/taxon.html
+0 144
+http://crustaceankeys.uca.es/buscar-glosario.html
+0 91
+http://crustaceankeys.uca.es/index.html
+0 8
+http://crustaceankeys.uca.es/termino.html
+0 15
+http://crustaceankeys.uca.es/esquema.html
+0 3
+http://crustaceankeys.uca.es/phpadmin/checklogin.php
+0 1
+http://crustaceankeys.uca.es/administracion.html
+0 5
+# End Of Table - referrers
+# -agents- 
+Safari/15608.4.9.1.3 CFNetwork/1121.1.2 Darwin/19.2.0 (x86_64)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.1
+0 370
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 781
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15
+0 457
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 138
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+0 115
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

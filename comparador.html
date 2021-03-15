@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<title>Crustacean Keys - Identificar matricial</title>
+	<meta charset="UTF-8">
+	<script src="./js/jquery-3.2.1.min.js"></script>
+	<script src="./js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="./css/bootstrap.min.css">
+	<link rel="stylesheet" href="./css/panel-control.css">
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/taxon.css">
+    <link rel="stylesheet" href="./css/botonarriba.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="https:////cdn.datatables.net/plug-ins/1.10.20/i18n/Spanish.json"></script>
+	<script src="./js/comparador.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/awesomplete.css">
+	<script src="js/awesomplete.js"></script>
+	<script src="./js/botonarriba.js"></script>	
+</head>
+<body onload="iniciar()">
+	<nav class="navbar navbar-toggleable-md navbar-light bg-faded align-items-end" style="background:#00577a;">
+	  <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation" style="background:#ffffff;">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+		<a class="navbar-brand" href="index.html"><img src="logo.jpg" height="93px"></a>
+	  <div class="collapse navbar-collapse" id="navbarTogglerDemo02" >
+	    <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+        <li class="nav-item">
+          <a class="nav-link" href="listado-especies.html" target="_blank" style="color: white; font-size: 0.93rem;">Lista de especies</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="buscar.html" target="_blank" style="color: white; font-size: 0.93rem;">Búsqueda de taxón</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="taxonomic-tree.html" target="_blank" style="color: white; font-size: 0.93rem;">Árbol taxonómico</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="claves.html" target="_blank" style="color: white; font-size: 0.93rem;">Claves generales</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="buscar-grupo.html" style="color: white; font-size: 0.93rem;">Identifícalo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="comparador.html" style="color: white; font-size: 0.93rem;">Compáralo</a>
+            </li>
+        <li class="nav-item">
+          <a class="nav-link" href="buscar-esquema.html" target="_blank" style="color: white; font-size: 0.93rem;">Esquemas generales</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="buscar-glosario.html" target="_blank" style="color: white; font-size: 0.93rem;">Glosario</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="bibliografia.html" style="color: white; font-size: 0.93rem;">Bibliografía</a>
+        </li>
+        </ul>
+	  </div>
+	</nav>
+	<div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <br>
+                <div class="titulo-panel-control" id="titulo" style="text-align: center;"><h2 style="text-decoration: underline;">Comparador de especies</h2></div>
+                <br>
+                <form enctype="multipart/form-data" id="seleccionartaxones" class="a-tabla-animal" method="post" style="margin-bottom: 30px;">
+                    <div id="formularios" style="display: flex; justify-content: space-around; margin-bottom: 30px;">
+                        <div id="divtaxon1" style="display: flex; flex-direction: column;">
+                            <select class="form-control" id="taxon1">
+                                <!-- Rellenado con ajax -->
+                            </select>
+                            <br>
+                        </div>
+                        <div id="divtaxon2" style="display: flex; flex-direction: column; margin-left: 1%;">
+                            <select class="form-control" id="taxon2">
+                            <!-- Rellenado con ajax -->
+
+                            </select>
+                            <br>
+                        </div>
+                        <div id="divtaxon3" style="display: flex; flex-direction: column; margin-left: 1%;">
+                            <select class="form-control" id="taxon3">
+                            <!-- Rellenado con ajax -->
+
+                            </select>
+                            <br>
+                        </div>
+                    </div>
+                    <a class="btn btn-primary btn-sm" href='javascript:;' onclick="rellenar_caracteristicas();" role="button">Comparar</a>
+                        <br>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div style="margin-bottom: 5%;">
+        <div id="caracteristicascoincidentes">
+          <div class="titulo-panel-control" style="text-align: justify; margin-left: 5%;">
+              <h3 id="titulocoincidentes" style="text-decoration: underline;">Características coincidentes</h3>
+          </div>
+          <div id="contenidocoincidente" style="margin-left: 120px;"></div>
+      </div>
+
+      <div id="caracteristicastaxon1">
+          <div class="titulo-panel-control" style="text-align: justify; margin-left: 5%;">
+              <h3 id="titulodinamico1" style="text-decoration: underline;"></h3>
+          </div>
+          <div id="contenidotaxon1" style="margin-left: 120px;"></div>
+      </div>
+      
+      <div id="caracteristicastaxon2">
+          <div class="titulo-panel-control" style="text-align: justify;  margin-left: 5%;">
+              <h3 id="titulodinamico2" style="text-decoration: underline;"></h3>
+          </div>
+          <div id="contenidotaxon2" style="margin-left: 120px;"></div>
+      </div>
+      
+      <div id="caracteristicastaxon3">
+          <div class="titulo-panel-control" style="text-align: justify; margin-left: 5%;">
+              <h3 id="titulodinamico3" style="text-decoration: underline;"></h3>
+          </div>
+          <div id="contenidotaxon3" style="margin-bottom: 5%; margin-left: 120px;"></div>
+      </div>
+    </div>
+  <nav class="navbar fixed-bottom navbar-light bg-light align-items-left" style="background:#555555; height: 60px">
+  <div style="color: white; font-size: 0.93rem;"> <a href="https://www.uca.es/"><img src="logouca.png" height="60px" alt="" ></a> &nbsp&nbsp&nbsp <a href="https://inmar.uca.es/"><img src="logoinmar.png" height="28px" alt=""></a> &nbsp&nbsp&nbsp Aplicación desarrollada en el Instituto Universitario de Investigación Marina (Universidad de Cádiz)</div>
+</nav>
+</body>
+</html>

@@ -1,0 +1,7 @@
+AuthName "crustaceankeys.uca.es statistics"
+AuthType Basic
+AuthUserFile /home/crustaceankeys/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

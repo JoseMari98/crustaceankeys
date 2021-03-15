@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<title>Crustacean Keys - Taxón</title>
+	<meta charset="UTF-8">
+	<script src="./js/jquery-3.2.1.min.js"></script>
+	<script src="./js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="./css/bootstrap.min.css">
+	<link rel="stylesheet" href="./css/panel-control.css">
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/buscar.css">
+	<script src="./js/buscar-esquema.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/awesomplete.css">
+	<script src="js/awesomplete.js"></script>
+</head>
+<body onload="iniciar()">
+	<nav class="navbar navbar-toggleable-md navbar-light bg-faded ">
+	  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+	  <a class="navbar-brand" href="index.html">Crustacean Keys</a>
+
+	  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+	    <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+	      <li class="nav-item">
+	        <a class="nav-link" href="taxonomic-tree.html">Arbol taxonómico</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="buscar.html">Búsqueda de taxón</a>
+	      </li>
+		  <li class="nav-item">
+	        <a class="nav-link" href="buscar-esquema.html">Glosario</a>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<div class="container">
+		<div class="row" id="datostaxon">
+		  	<div class="col-sm-12">
+				<br>
+				<center><h1>Esquemas Generales</h1></center>
+				<br>
+		  		<div class="titulo-panel-control" id="nombreesquema" style="text-align: center;"><h5 style="text-decoration: underline;">Listado de Esquemas Generales</h5></div>
+      				<select class="form-control" id="esquemascreados">
+      					<!-- Rellenado con ajax -->
+      				</select>
+		  		<div style="text-align: center; margin-top: 20px;"><button type="button" class="btn btn-info" onclick="buscartermino()">Buscar Esquema General</button></div>	  		
+		  	</div>
+		</div>
+	</div>
+</body>
+</html>

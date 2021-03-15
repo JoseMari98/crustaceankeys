@@ -1,0 +1,17 @@
+img{ max-width:100%;}
+
+.gallery_box li{ width:33.333333%; max-width: 100% ; display:inline-block; float: left; text-align: center; overflow: hidden;    position: relative;}
+.gallery_box{ padding:0;display: flow-root;}
+
+.gallery_box li img{-webkit-transition: transform 0.5s ease;
+    -o-transition: transform 0.5s ease;
+    transition: transform 0.5s ease;}
+.gallery_box li:nth-child(odd) {
+    height: 260px; 
+}
+
+
+.gallery_box .boxdata span{   position: absolute;
+  height: 260px;
+  left: 16px;
+  font-size: 18px;}
